@@ -7,6 +7,10 @@
 /.pnp
 .pnp.js
 /.vscode
+.idea
+/storybook-static
+.loki/report.html
+.loki/report.json
 
 # testing
 /coverage
