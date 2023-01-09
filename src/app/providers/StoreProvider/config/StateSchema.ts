@@ -8,9 +8,7 @@ import { UserSchema } from '@/entities/User';
 import { CounterSchema } from '@/entities/Counter';
 import { ArticleDetailsSchema } from '@/entities/Article';
 import {
-    ArticleDetailsCommentsSchema,
     ArticleDetailsPageSchema,
-    ArticleDetailsRecommendationsSchema,
 } from '@/pages/ArticleDetailsPage';
 import { AddCommentFormSchema } from '@/features/addCommentForm';
 import { ArticlesPageSchema } from '@/pages/ArticlesPage';
